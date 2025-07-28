@@ -1,6 +1,5 @@
 ## Requirements
 
-- PHP 8.4.8
 - Composer
 - Node.js & npm
 - MySQL
