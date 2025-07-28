@@ -41,8 +41,6 @@
    Terminal 2:  
    npm run dev
 
-   available at http://127.0.0.1:8000
-
 ## CRUD and Admin Panel Access
 
 To access the admin panel and use CRUD at `/admin/dashboard`:
