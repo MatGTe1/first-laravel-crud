@@ -46,4 +46,4 @@
 To access the admin panel and use CRUD at `/admin/dashboard`:
 
 1. Register a new user through the application or insert a user into the `users` table.
-2. In database, update the `usertype` column for that user to `admin`:
+2. In database, update the `usertype` column for that user to `admin`
